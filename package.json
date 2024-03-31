@@ -1,5 +1,5 @@
 {
-  "name": "@geslint-config/eslint-config",
+  "name": "@jieslint/eslint-config",
   "version": "2.4.3",
   "private": false,
   "description": "ESLint configuration used by jiraspiom",
@@ -9,7 +9,7 @@
     "access": "public"
   },
   "repository": {
-    "url": "git+https://github.com/jiraspiom/geslint-config.git"
+    "url": "git+https://github.com/jiraspiom/jieslint.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
@@ -37,7 +37,7 @@
   },
   "author": "jiraspiom",
   "bugs": {
-    "url": "https://github.com/jiraspiom/geslint-config/issues"
+    "url": "https://github.com/jiraspiom/jieslint/issues"
   },
-  "homepage": "https://github.com/jiraspiom/geslint-config#readme"
+  "homepage": "https://github.com/jiraspiom/jieslint#readme"
 }
