@@ -1,8 +1,8 @@
 {
   "name": "@geslint-config/eslint-config",
-  "version": "2.2.3",
+  "version": "2.4.3",
   "private": false,
-  "description": "ESLint configuration used by gibosi.",
+  "description": "ESLint configuration used by jiraspiom",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -39,9 +39,5 @@
   "bugs": {
     "url": "https://github.com/jiraspiom/geslint-config/issues"
   },
-  "homepage": "https://github.com/jiraspiom/geslint-config#readme",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/jiraspiom/geslint-config#readme"
 }
