@@ -1,5 +1,5 @@
 {
-  "name": "@gbs-eslint-config/eslint-config",
+  "name": "@geslint-config/eslint-config",
   "version": "2.2.2",
   "private": false,
   "description": "ESLint configuration used by gibosi.",
