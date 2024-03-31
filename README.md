@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @geslint-config/eslint-config
+npm i -D eslint @jieslint/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@geslint-config/eslint-config/next", 
+    "@jieslint/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @geslint-config/eslint-config
+npm i -D eslint @jieslint/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@geslint-config/eslint-config/react"
+  "extends": "@jieslint/eslint-config/react"
 }
 ```
 
@@ -43,17 +43,17 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @geslint-config/eslint-config
+npm i -D eslint @jieslint/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@geslint-config/eslint-config/node"
+  "extends": "@jieslint/eslint-config/node"
 }
 ```
 
 # create npm package
 - [] yarn link
 - [] npm login
-- [] npm init --scope@geslint-config
+- [] npm init --scope@jieslint
 - [] npm publish
